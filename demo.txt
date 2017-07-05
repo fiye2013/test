@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-oooo
-=======
 first write content~~~
->>>>>>> cbc9244584b59093dd37b1e52467ffac350964e9
+
