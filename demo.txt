@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 first write content~~
 last write content~~~
 ~
+update
